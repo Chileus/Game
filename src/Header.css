@@ -1,0 +1,15 @@
+.NavBar{
+  align-items: center;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+.NavBar a{
+  text-decoration: none;
+}
+.NavBar li{
+  padding-left: 20px;
+}
+.Header{
+
+}
